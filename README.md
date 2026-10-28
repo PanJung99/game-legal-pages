@@ -5,6 +5,8 @@ Public legal pages for games published by PanJung99.
 ## Pages
 
 - 银河火线 TapTap 隐私政策: `docs/galactic-fireline/taptap/privacy/index.html`
+- 银河火线 Google Play 隐私政策: `docs/galactic-fireline/google-play/privacy/index.html`
+- 银河火线 Google Play 发布核对（不发布到网页）: `sources/galactic-fireline/google-play/release-review.md`
 
 After enabling GitHub Pages with branch `main` and folder `/docs`, the public URL will be:
 
